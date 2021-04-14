@@ -20,6 +20,7 @@ function setup() {
   ground.velocityX = -3;
 
   shipsGroup = new Group();
+  alliansGroup = new Group();
 }
 
 function draw() {
